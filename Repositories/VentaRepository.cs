@@ -46,7 +46,7 @@ namespace Caso.Repositories
 
     public async Task<IEnumerable<VentaModel>> GetAllVentas()
     {
-      var query = "SELECT * FROM VENTAS";
+      var query = "SELECT * FROM VENTAS ORDER BY FECHA DESC";
       using (var connection = _context.CreateConnection())
       {
         var ventas = await connection.QueryAsync<VentaModel>(query);

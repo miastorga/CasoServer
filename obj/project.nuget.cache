@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "efQTmg6GvDoNLzspJKtsjMiBGc75iT1hVMipkZD9lElnh55D79IVVL77XZTlD6FNfoyZyKrlxq6xha/KbgI4Qw==",
+  "dgSpecHash": "PiEXstJ50KN2PE5Q+MCbnLIlzSqTaozyWXA0lv+erkRMA3b86yAfDkyvZnxl0pGwguSco3rq0fAffY5Wn85s8A==",
   "success": true,
-  "projectFilePath": "/Users/miguelastorga/Documents/Repos/caso/Caso.csproj",
+  "projectFilePath": "/Users/miguelastorga/Documents/Repos/casoyciaServer/Caso.csproj",
   "expectedPackageFiles": [
     "/Users/miguelastorga/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
     "/Users/miguelastorga/.nuget/packages/microsoft.aspnetcore.openapi/7.0.17/microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",

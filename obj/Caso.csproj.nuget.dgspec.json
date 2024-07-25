@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/miguelastorga/Documents/Repos/caso/Caso.csproj": {}
+    "/Users/miguelastorga/Documents/Repos/casoyciaServer/Caso.csproj": {}
   },
   "projects": {
-    "/Users/miguelastorga/Documents/Repos/caso/Caso.csproj": {
+    "/Users/miguelastorga/Documents/Repos/casoyciaServer/Caso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/miguelastorga/Documents/Repos/caso/Caso.csproj",
+        "projectUniqueName": "/Users/miguelastorga/Documents/Repos/casoyciaServer/Caso.csproj",
         "projectName": "Caso",
-        "projectPath": "/Users/miguelastorga/Documents/Repos/caso/Caso.csproj",
+        "projectPath": "/Users/miguelastorga/Documents/Repos/casoyciaServer/Caso.csproj",
         "packagesPath": "/Users/miguelastorga/.nuget/packages/",
-        "outputPath": "/Users/miguelastorga/Documents/Repos/caso/obj/",
+        "outputPath": "/Users/miguelastorga/Documents/Repos/casoyciaServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/miguelastorga/.nuget/NuGet/NuGet.Config"
